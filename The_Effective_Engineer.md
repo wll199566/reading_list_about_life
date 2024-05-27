@@ -4,7 +4,7 @@
 
 **Focus on High-Leverage Activities**
 
-* **Use leverage to measure your engineering effectiveness.** Focus on what generates the highest return on investment for your time spent.
+* **Use leverage to measure your engineering effectiveness.** Focus on what generates the highest return on investment for your time spent (_Leverage = Impact produced / Time invested_).
 
 * **Systematically increase the leverage of your time.** Find ways to get an activity done more quickly, to increase the impact of an activity, or to shift to activities with higher leverage.
 
